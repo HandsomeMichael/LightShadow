@@ -1,0 +1,17 @@
+﻿Light And Shadow 1.3 Backport is a backport from Light And Shadow 1.4 mod that Provide some lights and shadow effect.
+
+There are some options in the Mod Config.
+
+All of the credit goes to yiyang233
+
+i'm just here backport it so i or other people can also enjoy it while playing clam or other 1.3 mod :)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Light And Shadow 1.3 Backport  是 1.4 mod 的一个 backport，它提供了一些光影效果。
+
+Mod Config中有一些选项。
+
+所有的功劳归于 yiyang233
+
+我只是在这里向后移植它，所以我或其他人也可以在玩蛤蜊或其他 1.3 mod 时享受它:)
